@@ -50,3 +50,7 @@ I also practiced inspecting Git history using `git log`, `git show`, and `git di
 ## What I Found Difficult
 
 Understanding the difference between the working directory, staging area, commits, and branches was initially confusing. Practicing each step helped me understand how Git tracks and manages changes.
+
+## GitHub Workflow
+
+Today I learned how Git works with GitHub using push, pull, fetch, clone, branches, and pull requests.
